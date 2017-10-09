@@ -4,7 +4,7 @@ An Unsplash client built using Flutter. It is currently work in progress, the ai
 
 At the moment it only consists of a feeds screen:
 
-![](https://github.com/hitherejoe/Tide/blob/master/feeds_screen.gif?raw=true)
+![](https://github.com/hitherejoe/Tide/blob/master/feeds.gif?raw=true)
 
 ## Languages, libraries and tools used
 
