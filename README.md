@@ -13,4 +13,6 @@ At the moment it only consists of a feeds screen:
 * [RxDart](https://github.com/ReactiveX/rxdart)
 * [Mockito](https://pub.dartlang.org/packages/mockito)
 
-The application is currently using MVP. Please see the issues for the repository for the coming features.
+The application is currently using MVP. 
+
+Please see the issues for the repository for the coming features.
