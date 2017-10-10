@@ -1,4 +1,4 @@
-import 'package:tidal/data/model/photo_model.dart';
+import 'package:tide/data/model/photo_model.dart';
 
 class PhotosResult {
   List<PhotoModel> items;

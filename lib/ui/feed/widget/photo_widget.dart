@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:tidal/utils.dart';
+import 'package:tide/utils.dart';
 
 class PhotoView extends StatelessWidget {
   static const String path = "/settings";

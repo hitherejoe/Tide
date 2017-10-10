@@ -2,8 +2,8 @@ import 'dart:convert';
 
 import 'package:http/http.dart';
 import 'package:rxdart/rxdart.dart';
-import 'package:tidal/data/photos_repository.dart';
-import 'package:tidal/data/model/photo_model.dart';
+import 'package:tide/data/photos_repository.dart';
+import 'package:tide/data/model/photo_model.dart';
 
 class PhotosDataRepository implements PhotosRepository {
 

@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
-import 'package:tidal/ui/feed/model/photo.dart';
-import 'package:tidal/ui/feed/photo_feed_contract.dart';
-import 'package:tidal/ui/feed/photo_feed_presenter.dart';
-import 'package:tidal/ui/feed/widget/feed_list_widget.dart';
-import 'package:tidal/ui/model/photo_type.dart';
-import 'package:tidal/ui/widget/loading_widget.dart';
-import 'package:tidal/data/photos_data_repository.dart';
+import 'package:tide/ui/feed/model/photo.dart';
+import 'package:tide/ui/feed/photo_feed_contract.dart';
+import 'package:tide/ui/feed/photo_feed_presenter.dart';
+import 'package:tide/ui/feed/widget/feed_list_widget.dart';
+import 'package:tide/ui/model/photo_type.dart';
+import 'package:tide/ui/widget/loading_widget.dart';
+import 'package:tide/data/photos_data_repository.dart';
 import 'package:http/http.dart';
 
 class PhotoFeedView extends StatefulWidget {

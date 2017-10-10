@@ -1,4 +1,4 @@
-import 'package:tidal/ui/feed/model/photo.dart';
+import 'package:tide/ui/feed/model/photo.dart';
 
 abstract class PhotosFeedViewContract {
   void setStateForPhotos(List<Photo> photos);

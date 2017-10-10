@@ -1,5 +1,5 @@
-import 'package:tidal/data/model/photo_model.dart';
-import 'package:tidal/ui/feed/model/photo.dart';
+import 'package:tide/data/model/photo_model.dart';
+import 'package:tide/ui/feed/model/photo.dart';
 
 class PhotoMapper {
 

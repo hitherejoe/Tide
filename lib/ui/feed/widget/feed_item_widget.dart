@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:tidal/ui/feed/model/photo.dart';
-import 'package:tidal/ui/feed/widget/photo_widget.dart';
+import 'package:tide/ui/feed/model/photo.dart';
+import 'package:tide/ui/feed/widget/photo_widget.dart';
 
 class FeedItemWidget extends StatelessWidget {
 
